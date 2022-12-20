@@ -40,4 +40,4 @@ jobs:
         with:
           dockerfile: ./Dockerfile
           push: true
-          tags: catsatan/lab5:latest
+          tags: inkve/lab5:latest
